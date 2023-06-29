@@ -1,7 +1,6 @@
 # Script-For-Honor
-Acest script a fost făcut strict pentru un proiect personal și l-am folosit numai împotriva bot-ului din Practice Mode!!!
+This script was made strictly for a personal project, and I only used it against the bot in Practice Mode!!!
 
-DirectInputs.py - este luat de pe net și folosit de scriptul Interactiune.py pentru comenzile de la tastatură/mouseș
-Interacțiune.py - conține metode pentru câteva dintre acțiunile de bază: Attack, Guard, Parryș
-ScriptForHonor.py - este fisierul principal. Folosește vederea artificială pentru detectarea indicatorilor de gardă și atac al adversarului și scripturile mai sus menționate pentru a interacționa cu acesta.
-Încă este în lucru deoarece am întâmpinat probleme la rețeaua neuronală.
+DirectInputs.py - is taken from the internet and used by the Interactiune.py script for keyboard/mouse commands. 
+Interactiune.py - contains methods for some basic actions: Attack, Guard, Parry. 
+ScriptForHonor.py - is the main file. It uses computer vision for detecting the opponent's guard and attack indicators, and the aforementioned scripts to interact with it. It is still a work in progress as I encountered issues with the neural network.
